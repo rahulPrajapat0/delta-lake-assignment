@@ -1,5 +1,5 @@
- Delta Lake MERGE Implementation
-===  Objective ===
+Delta Lake MERGE Implementation
+=== Objective ===
 This project demonstrates incremental data processing using Delta Lake MERGE operation in Databricks with PySpark.
 
 The assignment covers:
